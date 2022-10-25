@@ -16,8 +16,7 @@ visualización de Tableau, la cual le permitirá entregarles justo lo que están
 buscando, acompañado de un diseño intuitivo y dinámico.
 Para ello:
 1. Busque en fuentes de internet, como en algunos bancos u otras instituciones
-se muestras gráficos o tablas de distintos indicadores. También, puede
-guiarse con un panel que se consiguió con un colega (Anexo 2).
+se muestras gráficos o tablas de distintos indicadores.
 2. El dashboard debe tener como mínimo, los siguientes indicadores:
 a. Poder elegir la fecha con un parámetro de fecha y en formato
 calendario.
