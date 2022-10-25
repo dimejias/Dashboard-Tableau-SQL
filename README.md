@@ -18,18 +18,26 @@ Para ello:
 1. Busque en fuentes de internet, como en algunos bancos u otras instituciones
 se muestras gráficos o tablas de distintos indicadores.
 2. El dashboard debe tener como mínimo, los siguientes indicadores:
+
 a. Poder elegir la fecha con un parámetro de fecha y en formato
 calendario.
+
 b. Una tabla con las fechas de los feriados.
+
 c. Un gráfico evolutivo de este año y del año pasado para cada uno de
 los conceptos (dólar, euro, uf, utm e ipc). (Puede hacerlo en gráficos
 distintos, con gráficos dobles, con parámetros, etc).
+
 d. Una tabla con el mínimo, máximo y promedio para cada año para
 cada indicador.
+
 e. Variación porcentual entre el valor de un día y otro (mes para el caso
 de UTM e IPC).
+
 f. Dashboard con título y fecha que se está analizando.
+
 g. Cualquier cosa adicional a esta y que aporte valor al dashboard
 contará puntaje. Se contará puntaje por creatividad y propuestas
 de ustedes.
+
 ![image](https://user-images.githubusercontent.com/116418371/197888535-db3157e2-57db-492f-81c8-f35bbf38d14f.png)
