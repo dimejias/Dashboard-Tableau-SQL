@@ -1,6 +1,6 @@
 # Dashboard-Tableau-SQL
 Análisis a los principales indicadores económicos.
-Enunciado
+
 Luego de haber creado la tabla de indicadores solicitada por su empresa, su
 empresa ha quedado encantada con la rapidez con la que ahora pueden ver la
 data. Además de ahora tener la data ordenada, se actualiza diariamente de
